@@ -1,0 +1,7 @@
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\youhackerrunner.exe.config
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\youhackerrunner.exe
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\youhackerrunner.pdb
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\youhackerrunner.exe
+C:\Users\youssef\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\youhackerrunner.pdb
