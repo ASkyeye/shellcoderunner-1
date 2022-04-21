@@ -16,4 +16,4 @@ csharp shellcode loader + auto persistence
 
 # ScreenShots
 
-![](/Screenshots/cobalt.PNG)
+![](/Screenshots/Cobalt.PNG)
